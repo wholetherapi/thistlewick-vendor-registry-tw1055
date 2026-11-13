@@ -4,7 +4,7 @@ vendor_name: Quillon Labs
 onboarding_status: active
 risk_tier: low
 github_repository: quillon-labs-connector-tw1055
-docs_repo:
+docs_repo: https://github.com/wholetherapi/quillon-labs-connector-tw1055
 ---
 
 ## Review notes
