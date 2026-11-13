@@ -4,7 +4,7 @@ vendor_name: Marlowe Compliance Suite
 onboarding_status: active
 risk_tier: low
 github_repository: marlowe-compliance-connector-tw1055
-docs_repo:
+docs_repo: https://github.com/wholetherapi/marlowe-compliance-connector-tw1055
 ---
 
 ## Review notes
